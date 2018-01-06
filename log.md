@@ -3,27 +3,17 @@
 ### Day 0: January 4, 2018
 
 **Today's Progress**: Reviewed the Front End Development Certification and Tribute Page.
+
 **Thoughts:** I must focus and try to be faster when I am learning.
 
-**Link to work:** Tribute Page (https://codepen.io/Raoni1984/pen/MpYgbM)
+**Link to work:** [Tribute Page] (https://codepen.io/Raoni1984/pen/MpYgbM)
 
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 1: January 5, 2018
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: I started my portfolio website. 
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** No much progress today. :(  I think the first thing I should do in my free time is begin coding ASAP.
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+[Portfolio] (https://github.com/Raoni1984/Portfolio)
